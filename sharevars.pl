@@ -34,7 +34,8 @@ if($ARGV[0] && ($ARGV[0] eq 'child')) {
 # is parent
 system "gcc -Wall -fPIC -shared -o shmmalloc.so shmmalloc.c  -ldl -lrt";
 unlink('scalar.address');
-my $shmname = '/watchme';
+my $shmname = '/perlmem';
+unlink('/dev/shm/' . $shmname);
 my $childheap;
 if(!$ARGV[0] || ($ARGV[0] ne 'childmakeheap')) {
     $childheap = createheap($shmname);
@@ -78,6 +79,7 @@ while(1){
     say 'cccc ddddd: ' . hval($hv, 'cccc', 'ddddd');
     say '>>>>>>>>>>>END>>>>>>>>>>>>>>>>>>>>>>>>>>';
     #wait();
+    unlink('/dev/shm/' . $shmname);
     die;
     sleep(5);
 } 
