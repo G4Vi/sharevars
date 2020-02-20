@@ -1,0 +1,1 @@
+{"version":"0.81","dist":"YAML-LibYAML-0.81","pathname":"T/TI/TINITA/YAML-LibYAML-0.81.tar.gz","provides":{"YAML::LibYAML":{"version":"0.81","file":"lib/YAML/LibYAML.pm"},"YAML::XS::LibYAML":{"file":"LibYAML/lib/YAML/XS/LibYAML.pm"},"YAML::XS":{"version":"0.81","file":"lib/YAML/XS.pm"}},"target":"YAML::XS","name":"YAML::LibYAML"}

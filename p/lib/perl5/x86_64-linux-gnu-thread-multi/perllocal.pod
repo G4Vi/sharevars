@@ -1,0 +1,440 @@
+=head2 Tue Feb 18 22:27:59 2020: C<Module> L<File::ShareDir::Install|File::ShareDir::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:29:04 2020: C<Module> L<ExtUtils::MakeMaker|ExtUtils::MakeMaker>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 7.44>
+
+=item *
+
+C<EXE_FILES: bin/instmodsh>
+
+=back
+
+=head2 Wed Feb 19 03:29:12 2020: C<Module> L<Sub::Uplevel|Sub::Uplevel>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.2800>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:29:15 2020: C<Module> L<Test::Warn|Test::Warn>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.36>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:29:18 2020: C<Module> L<Inline|Inline>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.86>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:29:22 2020: C<Module> L<Test::Pod|Test::Pod>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.52>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:29:54 2020: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.302171>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:29:58 2020: C<Module> L<Test::Deep|Test::Deep>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.128>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:30:11 2020: C<Module> L<YAML::PP|YAML::PP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.020>
+
+=item *
+
+C<EXE_FILES: bin/yamlpp5-events bin/yamlpp5-highlight bin/yamlpp5-load bin/yamlpp5-load-dump bin/yamlpp5-parse-emit>
+
+=back
+
+=head2 Wed Feb 19 03:30:13 2020: C<Module> L<XXX|XXX>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.35>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:31:26 2020: C<Module> L<Pegex|Pegex>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.75>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:31:30 2020: C<Module> L<Test::utf8|Test::utf8>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:31:33 2020: C<Module> L<Test::File|Test::File>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.443>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:31:37 2020: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:31:38 2020: C<Module> L<Test::Fatal|Test::Fatal>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:31:42 2020: C<Module> L<Test::Warnings|Test::Warnings>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.028>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:31:49 2020: C<Module> L<Path::Tiny|Path::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.112>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:31:51 2020: C<Module> L<File::Copy::Recursive|File::Copy::Recursive>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.45>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:32:03 2020: C<Module> L<YAML::LibYAML|YAML::LibYAML>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.81>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb 19 03:33:24 2020: C<Module> L<Inline::C|Inline::C>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sample/Sync/Code/mmaptests/perl_install/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.81>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
